@@ -1,4 +1,4 @@
-👋 Hi there, I’m @andrewbantly. 
+👋 Hi there, I’m Andrew. 
 
 As an ambitious software engineer, I am fueled by the boundless possibilities that lie ahead. With six years of invaluable experience in media production, I possess a distinctive skill set that allows me to approach problem-solving from a fresh and innovative perspective. My unwavering determination drives me to deliver cutting-edge solutions that have a significant impact on the entire software development life cycle.
 
