@@ -1,12 +1,12 @@
-👋 Hi, I’m @andrewbantly. 
+👋 Hi there, I’m @andrewbantly. 
 
-As a determined software engineer, I am driven by the endless opportunities that lie ahead. I bring six years of valuable media production experience and possess a unique blend of skills that enables me to approach problem-solving with a fresh perspective. I am ready and eager to deliver innovative solutions and make a meaningful impact on the software development life cycle.
+As an ambitious software engineer, I am fueled by the boundless possibilities that lie ahead. With six years of invaluable experience in media production, I possess a distinctive skill set that allows me to approach problem-solving from a fresh and innovative perspective. My unwavering determination drives me to deliver cutting-edge solutions that have a significant impact on the entire software development life cycle.
 
-I'm currently looking for full-time roles as a full-stack software engineer. 
+Presently, I am actively seeking full-time opportunities as a full-stack software engineer, leveraging my diverse background and expertise.
 
-Formerly a [media production professional](https://andrewbantly.me/), I was motivated to pivot my career towards software engineering after working with a talented and diverse team of engineers at [Reliable Robotics](https://reliable.co/). There, my job was to humanize and celebrate the team and the engineering. While I accomplished these goals, I too was inspired by the problems they solved and how they broke large and challenging problems down layer by layer. 
+Having previously worked as a media production professional, my passion for software engineering was ignited during my time at Reliable Robotics. Collaborating with a talented and diverse team of engineers, I was exposed to the complexities and challenges they faced. Witnessing their problem-solving prowess as they dissected intricate issues layer by layer, I became deeply inspired to transition my career in pursuit of similar challenges.
 
-I'm currently completing an immersive software bootcamp at General Assembly. It continues to exceed expectations and I am really proud of the projects I'm building. Check them out!
+Currently, I am enrolled in an immersive software bootcamp at General Assembly, and the experience has surpassed my expectations. I am immensely proud of the projects I have undertaken and encourage you to check them out for yourself.
 
 [Pick'em](https://pickem.herokuapp.com/)
 - [Technical documentation](https://github.com/andrewbantly/pickem#pickem)
