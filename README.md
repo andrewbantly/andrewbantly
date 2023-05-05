@@ -14,7 +14,11 @@ Currently, I am enrolled in an immersive software bootcamp at General Assembly, 
 [Escape From Alcatraz](https://andrewbantly.github.io/Escape-From-Alcatraz/)
 - [Technical documentation](https://github.com/andrewbantly/Escape-From-Alcatraz#escape-from-alcatraz)
 
-I'm currently learning React, MongoDB and Python. Upon graduation, I plan to practice the languages I've learned but also explore technologies I haven't. Specifically, Rust, Go, Phoenix, and Flask. 
+I'm currently honing my skills in React, MongoDB, and Python. Upon completing my studies, my intention is to apply and further develop these languages while also venturing into unexplored technological realms. I'm particularly excited to delve into emerging technologies such as Rust, Go, Phoenix, and Flask, as they offer immense potential for innovation and pushing the boundaries of software development.
 
-If you want to work with my in any capacity, here's my email:
+If you want to work together, here's my email:
 andrewbantly@gmail.com
+
+All the best,
+
+Andrew
