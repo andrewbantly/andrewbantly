@@ -4,7 +4,7 @@ As a determined software engineer, I am driven by the endless opportunities that
 
 I'm currently looking for full-time roles as a full-stack software engineer. 
 
-Formerly a [media production professional](https://andrewbantly.me/), I was motivated to pivot my career towards software engineering after working with engineers of diverse backgrounds while at [Reliable Robotics](https://reliable.co/). There, my job was to humanize the team and the work. While I accomplished these goals, I too was inspired by the problems they solved and how they broke large and challenging problems down layer by layer. 
+Formerly a [media production professional](https://andrewbantly.me/), I was motivated to pivot my career towards software engineering after working with a talented and diverse team of engineers at [Reliable Robotics](https://reliable.co/). There, my job was to humanize and celebrate the team and the engineering. While I accomplished these goals, I too was inspired by the problems they solved and how they broke large and challenging problems down layer by layer. 
 
 I'm currently completing an immersive software bootcamp at General Assembly. It continues to exceed expectations and I am really proud of the projects I'm building. Check them out!
 
