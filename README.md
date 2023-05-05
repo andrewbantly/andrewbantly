@@ -4,7 +4,7 @@ As an ambitious software engineer, I am fueled by the boundless possibilities th
 
 Presently, I am actively seeking full-time opportunities as a full-stack software engineer, leveraging my diverse background and expertise.
 
-Having previously worked as a media production professional, my passion for software engineering was ignited during my time at Reliable Robotics. Collaborating with a talented and diverse team of engineers, I was exposed to the complexities and challenges they faced. Witnessing their problem-solving prowess as they dissected intricate issues layer by layer, I became deeply inspired to transition my career in pursuit of similar challenges.
+Having previously worked as a [media production professional](https://andrewbantly.me/), my passion for software engineering was ignited during my time at [Reliable Robotics](https://reliable.co/). Collaborating with a talented and diverse team of engineers, I was exposed to the complexities and challenges they faced. Witnessing their problem-solving prowess as they dissected intricate issues layer by layer, I became deeply inspired to transition my career in pursuit of similar challenges.
 
 Currently, I am enrolled in an immersive software bootcamp at General Assembly, and the experience has surpassed my expectations. I am immensely proud of the projects I have undertaken and encourage you to check them out for yourself.
 
