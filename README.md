@@ -1,9 +1,5 @@
 👋 Hi there, I’m Andrew. 
 
-As a highly motivated software engineer with six years of media production experience, I bring a unique perspective to problem-solving, leveraging my skills in creative thinking, project management, and effective communication to develop innovative solutions that exceed expectations. I am eager to deliver high-quality work that makes a meaningful impact on the software development life cycle. 
-
-Presently, I am actively seeking full-time opportunities as a full-stack software engineer.
-
 Having previously worked as a [media production professional](https://andrewbantly.me/), my passion for software engineering was ignited during my time at [Reliable Robotics](https://reliable.co/). Collaborating with a talented and diverse team of engineers, I was exposed to the complexities and challenges they faced. Witnessing their problem-solving prowess as they dissected intricate issues layer by layer, I became deeply inspired to transition my career in pursuit of similar challenges.
 
 I recently graduated from an immersive software bootcamp at General Assembly, and the experience has surpassed my expectations. I am immensely proud of the projects I have undertaken and encourage you to check them out for yourself.
