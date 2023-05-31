@@ -1,4 +1,4 @@
-👋 Hi there, I’m Andrew. 
+👋 Hi there, I’m [Andrew](https://www.andrewbantly.dev/).
 
 Having previously worked as a [media production professional](https://andrewbantly.me/), my passion for software engineering was ignited during my time at [Reliable Robotics](https://reliable.co/). Collaborating with a talented and diverse team of engineers, I was exposed to the complexities and challenges they faced. Witnessing their problem-solving prowess as they dissected intricate issues layer by layer, I became deeply inspired to transition my career in pursuit of similar challenges.
 
