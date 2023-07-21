@@ -1,8 +1,13 @@
+## Bio
 👋 Hi there, I’m [Andrew](https://www.andrewbantly.dev/).
 
-Having previously worked as a [media production professional](https://andrewbantly.me/), my passion for software engineering was ignited during my time at [Reliable Robotics](https://reliable.co/). Collaborating with a talented and diverse team of engineers, I was exposed to the complexities and challenges they faced. Witnessing their problem-solving prowess as they dissected intricate issues layer by layer, I became deeply inspired to transition my career in pursuit of similar challenges.
+Having previously worked as a [media production professional](https://andrewbantly.me/), my passion for software engineering was ignited during my time at [Reliable Robotics](https://reliable.co/). Collaborating with a talented and diverse team of engineers, I was exposed to the complexities and challenges they faced. Witnessing their problem-solving prowess as they dissected intricate issues layer by layer, I became deeply inspired to pivot my career in pursuit of similar challenges.
 
-I recently graduated from an immersive software bootcamp at General Assembly, and the experience has surpassed my expectations. I am immensely proud of the projects I have undertaken and encourage you to check them out:
+I completed a 12-week, 600+ hour bootcamp focused on Git, Github, HTML, CSS, JavaScript, Node, PostgreSQL, MongoDB, Python, React, Django, and more. 
+
+I am currently working on an internal tool for a Phoenix-based real estate investment company using Python, Django, NoSQL database integreation, TypeSript, Angular, and SCSS. 
+
+## Past Projects
 
 [World Class Wines](https://andrewbantly.github.io/world-class-wines) | [Technical documentation](https://github.com/andrewbantly/world-class-wines#world-class-wines)
 
@@ -20,11 +25,5 @@ I recently graduated from an immersive software bootcamp at General Assembly, an
 
 **Description:** Individually deployed an online, user-friendly game that incorporates document object model (DOM) manipulation, behavioral logic, and object detection using JavaScript
 
-Currently I'm focused on learning new technologies, up leveling my skills, and building applications that solve problems. I'm particularly excited to delve into technologies such as Go, TypeScript, and Angular.
-
-If you want to work together, here's my email:
+## Contact
 andrewbantly@gmail.com
-
-All the best,
-
-Andrew
