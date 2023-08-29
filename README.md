@@ -5,7 +5,7 @@ Having previously worked as a [media production professional](https://andrewbant
 
 I completed a 12-week, 600+ hour bootcamp focused on Git, Github, HTML, CSS, JavaScript, Node, PostgreSQL, MongoDB, Python, React, Django, and more. 
 
-I am currently working on an internal tool for a Phoenix-based real estate investment company using Python, Django, NoSQL database integration, TypeScript, Angular, and SCSS. 
+I am currently working on an internal tool for a Phoenix-based real estate investment company using Python, Django, MongoDB, TypeScript, Angular, and SCSS. 
 
 ## Past Projects
 
