@@ -23,7 +23,7 @@ LeasePeek | [GitHub Repository](https://github.com/andrewbantly/leasepeek)
 
 [World Class Wines](https://andrewbantly.github.io/world-class-wines) | [GitHub Repository](https://github.com/andrewbantly/world-class-wines#world-class-wines)
 
-**Description:** Built a data visualization app with JavaScript, React, D3.js, and Python, simplifying wine discovery by preferences, praised for user experience by wine professionals.
+**Description:** Programmed a data visualization app with JavaScript, React, D3.js, and Python, simplifying wine discovery by preferences, praised for user experience by wine professionals.
 
 [National Parks Explorer](https://nps-explorer.netlify.app/) | [GitHub Repository](https://github.com/andrewbantly/npsexplorer-client)
 
