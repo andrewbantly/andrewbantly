@@ -12,11 +12,13 @@ When I'm not coding, I enjoy skiing down challenging slopes, exploring scenic ro
 ## Current Project
 
 LeasePeek | [Repository](https://github.com/andrewbantly/leasepeek)
+
 **Description:** Building a data-driven web app for large-scale property managers to forecast rent trends using analytics. Utilizing TypeScript, React, Chakra UI, Python, Django, Pandas, MongoDB, PostgreSQL, and REST APIs. Scripting unit and integration tests; leveraging Docker and DevOps for robust, scalable deployments
 
 ## Past Projects
 
 [GroundBreakers Excavation](https://groundbreakersexcavation.com) | [Repository](https://github.com/andrewbantly/groundbreakers))
+
 **Description:** Built a family business website with SEO and accessibility using JavaScript, React, Chakra UI, and Netlify. Integrated serverless email alerts, boosting visibility, inclusivity, and client engagement
 
 [World Class Wines](https://andrewbantly.github.io/world-class-wines) | [Repository](https://github.com/andrewbantly/world-class-wines#world-class-wines)
