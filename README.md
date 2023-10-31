@@ -29,7 +29,7 @@ LeasePeek | [GitHub Repository](https://github.com/andrewbantly/leasepeek)
 
 **Description:** Co-developed a MERN stack app, enabling users to discover U.S. national parks and log visits, with features like REST APIs, JWT authentication, and CRUD operations
 
-[Pick'em](https://pickem.herokuapp.com/) | [GitHub Repository](https://github.com/andrewbantly/pickem#pickem)
+[Major League Baseball Pick'em](https://pickem.herokuapp.com/) | [GitHub Repository](https://github.com/andrewbantly/pickem#pickem)
 
 **Description:** Crafted a full-stack Node app using JavaScript, featuring real-time game odds, social interactions, and performance metrics, supported by relational databases
 
