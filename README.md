@@ -13,7 +13,7 @@ When I'm not coding, I enjoy skiing down challenging slopes, exploring scenic ro
 
 LeasePeek | [GitHub Repository](https://github.com/andrewbantly/leasepeek)
 
-**Description:** Building a data-driven web app for large-scale property managers to forecast rent trends using analytics. Utilizing TypeScript, React, Chakra UI, Python, Django, Pandas, MongoDB, PostgreSQL, and REST APIs. Scripting unit and integration tests; leveraging Docker and DevOps for robust, scalable deployments.
+**Description:** Engineering a data-driven web app for large-scale property managers to forecast rent trends using analytics. Utilizing TypeScript, React, Chakra UI, Python, Django, Pandas, MongoDB, PostgreSQL, and REST APIs. Scripting unit and integration tests; leveraging Docker and DevOps for robust, scalable deployments.
 
 ## Past Projects
 
@@ -23,7 +23,7 @@ LeasePeek | [GitHub Repository](https://github.com/andrewbantly/leasepeek)
 
 [World Class Wines](https://andrewbantly.github.io/world-class-wines) | [GitHub Repository](https://github.com/andrewbantly/world-class-wines#world-class-wines)
 
-**Description:** Programmed a data visualization app with JavaScript, React, D3.js, and Python, simplifying wine discovery by preferences, praised for user experience by wine professionals.
+**Description:** Programmed an interactive data visualization with JavaScript, React, D3.js, and Python, simplifying wine discovery by preferences, praised for user experience.
 
 [National Parks Explorer](https://nps-explorer.netlify.app/) | [GitHub Repository](https://github.com/andrewbantly/npsexplorer-client)
 
