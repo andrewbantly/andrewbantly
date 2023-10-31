@@ -37,8 +37,6 @@ LeasePeek | [GitHub Repository](https://github.com/andrewbantly/leasepeek)
 
 **Description:** Engineered an interactive game leveraging JavaScript for DOM manipulation, behavioral logic, and object detection, enhanced with intricate CSS styling
 
-## Portfolio
-[andrewbantly.dev](https://www.andrewbantly.dev/)
-
 ## Contact
-andrewbantly@gmail.com
+[Portfolio](https://www.andrewbantly.dev/)
+[Email](andrewbantly@gmail.com)
