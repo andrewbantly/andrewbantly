@@ -11,7 +11,7 @@ When I'm not coding, I enjoy skiing down challenging slopes, exploring scenic ro
 
 ## Current Project
 
-LeasePeek | [GitHub Repository](https://github.com/andrewbantly/leasepeek)
+LeasePeek | [Frontend Repository](https://github.com/andrewbantly/leasepeek) [Backend Repository](https://github.com/andrewbantly/leasepeek-server)
 
 **Description:** Engineering a data-driven app for large-scale property managers to forecast rent trends using analytics. Utilizing TypeScript, React, Chakra UI, Python, Django, Pandas, MongoDB, PostgreSQL, and REST APIs. Scripting unit and integration tests; leveraging Docker and DevOps for robust, scalable deployments.
 
