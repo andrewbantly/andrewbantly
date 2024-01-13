@@ -1,13 +1,13 @@
 ## Bio
-👋 Hi there, I’m [Andrew](https://www.andrewbantly.dev/).
+👋 Hi there, I’m [Andrew](https://www.andrewbantly.dev/). Currently a software developer for [SoBet](https://sobet.io/).
 
-Having previously worked as a [media production professional](https://andrewbantly.me/), I developed an appreciation for software engineering during my time at [Reliable Robotics](https://reliable.co/). Collaborating with a talented and diverse team of engineers, I was exposed to the complexities and challenges they faced. Witnessing their problem-solving prowess as they dissected intricate issues layer by layer, I became deeply inspired to pivot my career in pursuit of similar challenges.
-
-In May 2023, I completed an immersive software engineering bootcamp with General Assembly. Over the course of 12 weeks, I dedicated more than 600 hours to learning various technologies, including Git, GitHub, HTML, CSS, JavaScript, Node, MongoDB, PostgreSQL, React, Next, Python, Django, and more.
-
-Throughout my professional journey, I've had the privilege of adapting my skills to diverse industries. I've contributed to Reliable Robotics, a startup focused on automating aircraft operations; the San Francisco Giants, a professional baseball organization; and the CK-12 Foundation, a non-profit dedicated to providing free, high-quality education.
-
-When I'm not coding, I enjoy skiing down challenging slopes, exploring scenic roadways on my bike, and leisurely walks with my dog, Murphy.
+## My Tech Stack
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,php,html,css,java)](https://skillicons.dev)
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,laravel,vue,django,nodejs)](https://skillicons.dev)
+### Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,netlify,express)](https://skillicons.dev)
 
 ## Current Project
 
