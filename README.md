@@ -1,7 +1,9 @@
 ## Bio
-👋 Hi there, I’m [Andrew](https://www.andrewbantly.dev/). Currently a software developer for [SoBet](https://sobet.io/).
+Software developer for [SoBet](https://sobet.io/).
+[Portfolio](https://www.andrewbantly.dev/)
+[LinkedIn](https://www.linkedin.com/in/andrewbantly/)
 
-## My Tech Stack
+## Tech Stack Experience
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,php,html,css,java)](https://skillicons.dev)
 ### Frameworks
