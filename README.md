@@ -1,9 +1,5 @@
-## Bio
 Software developer for [SoBet](https://sobet.io/).
-[Portfolio](https://www.andrewbantly.dev/)
-[LinkedIn](https://www.linkedin.com/in/andrewbantly/)
 
-## Tech Stack Experience
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,php,html,css,java)](https://skillicons.dev)
 ### Frameworks
@@ -11,7 +7,7 @@ Software developer for [SoBet](https://sobet.io/).
 ### Infrastructure
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,netlify,express)](https://skillicons.dev)
 
-## Current Project
+## Passion Project
 
 LeasePeek | [Frontend Repository](https://github.com/andrewbantly/leasepeek) [Backend Repository](https://github.com/andrewbantly/leasepeek-server)
 
