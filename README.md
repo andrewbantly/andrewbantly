@@ -1,11 +1,11 @@
 Software developer for [SoBet](https://sobet.io/).
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,php,html,css,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,py,php,js,html,css,java)](https://skillicons.dev)
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react,laravel,vue,django,nodejs)](https://skillicons.dev)
 ### Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,netlify,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,redux,docker,postgres,sequelize,mongodb,netlify,express,aws)](https://skillicons.dev)
 
 ## Passion Project
 
