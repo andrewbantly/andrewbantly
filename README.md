@@ -1,4 +1,4 @@
-Software Engineer @ [SoBet](https://sobet.io/).
+[SoBet](https://sobet.io/) Software Engineer
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=ts,php,py,js,html,css,java)](https://skillicons.dev)
