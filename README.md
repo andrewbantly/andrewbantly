@@ -9,4 +9,5 @@ Software Engineer at [SoBet](https://sobet.io/)
 
 ## Contact
 andrewbantly@gmail.com
+
 [andrewbantly.dev](https://www.andrewbantly.dev/)
