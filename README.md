@@ -1,4 +1,4 @@
-Software Engineer at [Indemni]([https://sobet.io/](https://www.indemni.com/))
+Software Engineer at [Indemni]([https://sobet.io/](https://www.indemni.com/)
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=ts,php,py,js,html,css,java)](https://skillicons.dev)
